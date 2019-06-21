@@ -1,10 +1,9 @@
 body {
   margin: 0;
-  font-family: sans-serif;
-  background: linear-gradient(to right,lightblue,lightgrey);
+  font-family: "monospace";
+  background: linear-gradient(to right,lightblue,rgb(189, 70, 70));
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+button {
+  cursor: pointer;
 }

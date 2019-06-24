@@ -8,7 +8,11 @@
       "type": "image/x-icon"
     }
   ],
+<<<<<<< HEAD
   "start_url": ".",
+=======
+  "start_url": "./index.html",
+>>>>>>> frontend
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
